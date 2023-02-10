@@ -8,6 +8,7 @@ body {
     width: 80%;
     background-color: burlywood; 
     margin: 0 auto;
+    padding: 0 20px;
 }
 
 h1, h2, p {
