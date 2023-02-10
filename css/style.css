@@ -1,5 +1,9 @@
 /* CSS Code */
 
-h1, h2 {
+body { 
+    background-color: brown; 
+}
+
+h1, h2, p {
     text-align: center;
 }
